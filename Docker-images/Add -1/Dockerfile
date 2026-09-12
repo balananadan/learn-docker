@@ -1,0 +1,1 @@
+From   docker.io/redhat/ubi10
