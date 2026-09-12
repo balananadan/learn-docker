@@ -1,1 +1,1 @@
-From   docker.io/redhat/ubi10
+FROM   docker.io/redhat/ubi10
